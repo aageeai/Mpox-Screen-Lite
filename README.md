@@ -49,7 +49,7 @@ This repository contains two machine learning models designed to detect skin con
 
 ### YOLOv8
 - **File:** `Mpox_Screen_Lite-YOLOv8.ipynb`
-- **Description:** Employs the YOLOv8 model to detect and classify skin conditions directly from images. It outputs class predictions along with bounding boxes and confidence scores.
+- **Description:** Employs the YOLOv8 model to detect and classify skin conditions directly from images. It outputs class predictions and confidence scores.
 
 ## Example Usage
 - Ensure that your input images are located in the directory accessible by the notebook.
