@@ -7,7 +7,6 @@ This repository contains two machine learning models designed to detect skin con
 ### Prerequisites
 - Python 3.8+
 - Jupyter Notebook or JupyterLab
-- Access to GPU (recommended for faster processing)
 
 ### Installation
 
@@ -21,12 +20,12 @@ This repository contains two machine learning models designed to detect skin con
 
    For MobileNetV2 model:
    ```
-   pip install tensorflow==2.8.0 matplotlib numpy
+   pip install tensorflow==2.8.0 
    ```
 
    For YOLOv8 model:
    ```
-   pip install ultralytics==8.2.82 matplotlib Pillow
+   pip install ultralytics==8.2.82
    ```
 
 ### Running the Notebooks
